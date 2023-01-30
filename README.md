@@ -1,13 +1,6 @@
-<div id="header" align="center">
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/LIiJXb6xfpJQakNyHF/giphy.gif" width="600" height="300"/>
-</div>
-
+<h1>
+  Hi there
+</h1>
 # :adult: **About Me :**
 ```yaml
 言語: 日本語
