@@ -1,6 +1,4 @@
-<h1>
-  Hi there
-</h1>
+## Hi there
 # :adult: **About Me :**
 ```yaml
 言語: 日本語
