@@ -46,6 +46,22 @@ hobbies: ["Vtuber", "Baking", "Coffee shop crawl"]
   </a>
 </p>
 
+<!-- GitHub -->
+<div align="left">
+  <a href="https://github.com/thomas0124/github-readme-stats">
+    <img alt="github stats" height="167px" src="https://github-readme-stats.vercel.app/api?username=thomas0124&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
+  </a>
+  <a href="https://github.com/thomas0124/github-readme-stats">
+    <img alt="Top Langs" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas0124&layout=compact&theme=outrun" />
+  </a>
+</div>
+
+<!-- streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomas0124&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- スネークゲーム -->
 ![github-contribution-grid-snake](https://github.com/thomas0124/thomas0124/blob/main/img/snake.gif)
 
