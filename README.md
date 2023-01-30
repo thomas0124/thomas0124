@@ -47,7 +47,7 @@ hobbies: ["Vtuber", "Baking", "Coffee shop crawl"]
 </p>
 
 <!-- スネークゲーム -->
-![github-contribution-grid-snake](https://github.com/thomas0124/Thomas/blob/main/img/snake.gif)
+![github-contribution-grid-snake](https://github.com/thomas0124/thomas0124/blob/main/img/snake.gif)
 
 # :hammer_and_wrench: **Languages and Tools :**
 <div>
