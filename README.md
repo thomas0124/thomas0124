@@ -9,7 +9,7 @@
 学んでいること: ["Unity", "Kaggle", "Rails", "Vue.js"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
 ```
-# :fire: **My Stats :**
+# **My Stats :**
 <p>
   <a href="https://twitter.com/Tomas_engineer" target="_blank">
     <img alt="Twitter: Thomas_engineer" src="https://img.shields.io/twitter/follow/Tomas_engineer.svg?style=social" />
@@ -27,16 +27,14 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomas0124&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- トロフィー -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124)](https://github.com/thomas0124/github-profile-trophy)
 
 
-<!-- スネークゲーム -->
 ![github-contribution-grid-snake](https://github.com/thomas0124/thomas0124/blob/main/img/snake.gif)
 
-# :hammer_and_wrench: **Languages and Tools :**
+# **Languages and Tools :**
 <div>
-<!--   言語     -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="rails" alt="rails" width="55" height="55"/>&nbsp;
@@ -49,11 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>&nbsp;
-<!--   データベース   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>&nbsp;
-<!--   インフラ  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/>&nbsp;
-<!--   ツール  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;
