@@ -31,7 +31,7 @@
 
 ![github-contribution-grid-snake](https://github.com/thomas0124/thomas0124/blob/main/img/snake.gif)
 
-# **Languages and Tools :**
+# :hammer_and_wrench: **Languages and Tools :**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
