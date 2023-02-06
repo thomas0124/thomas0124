@@ -1,33 +1,13 @@
 # Hi there 👋
-# :adult: **About Me :**
+#  **About Me :**
+
 ```yaml
-言語: 日本語
 名前: 清水 透真
 居住地: 愛知, 日本
 職業: 大学生
 専攻: 情報工学
-興味のある分野:
-  [
-    "Web開発",
-    "機械学習",
-    "XR",
-  ]
 学んでいること: ["Unity", "Kaggle", "Rails", "Vue.js"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
-
-lang: English
-name: Toma Shimizu
-located_in: Aichi, Japan
-current_job: University student
-major: Computer Science
-fields_of_interests:
-  [
-    "Web Development",
-    "Machine Learning",
-    "Extended Reality",
-  ]
-currently_learning: ["Unity", "Kaggle", "Rails", "Vue.js"]
-hobbies: ["Vtuber", "Baking", "Coffee shop crawl"]
 ```
 # :fire: **My Stats :**
 <!-- Twitter -->
