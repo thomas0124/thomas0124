@@ -25,8 +25,6 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomas0124&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124)](https://github.com/thomas0124/github-profile-trophy)
 
