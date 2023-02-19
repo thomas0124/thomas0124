@@ -6,7 +6,7 @@
 居住地: 愛知, 日本
 職業: 大学生
 専攻: 情報工学
-学んでいること: ["Unity", "Kaggle", "Rails", "Vue.js"]
+学んでいること: ["Unity", "Kaggle", "Nuxt.js", "Vue.js"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
 ```
 # **My Stats :**
@@ -17,6 +17,7 @@
 </p>
 
 <div align="left">
+  <img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=thomas0124&layout=compact&show_icons=true&theme=dracula" />
   <a href="https://github.com/thomas0124/github-readme-stats">
     <img alt="github stats" height="167px" src="https://github-readme-stats.vercel.app/api?username=thomas0124&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
   </a>
