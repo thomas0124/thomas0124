@@ -21,7 +21,6 @@
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 
 <div align="left">
-  <img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=thomas0124&layout=compact&show_icons=true&theme=dracula" />
   <a href="https://github.com/thomas0124/github-readme-stats">
     <img alt="github stats" height="167px" src="https://github-readme-stats.vercel.app/api?username=thomas0124&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
   </a>
