@@ -14,10 +14,11 @@
   <a href="https://twitter.com/Tomas_engineer" target="_blank">
     <img alt="Twitter: Thomas_engineer" src="https://img.shields.io/twitter/follow/Tomas_engineer.svg?style=social" />
   </a>
-  [![Qiita posts](https://qiita-badge.apiapi.app/s/thomas0124/posts.svg)](http://qiita.com/thomas0124)
-  [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
   <img src="https://komarev.com/ghpvc/?username=thomas0124&style=flat-square&color=blue" alt="views"/>
 </p>
+
+[![Qiita posts](https://qiita-badge.apiapi.app/s/thomas0124/posts.svg)](http://qiita.com/thomas0124)
+[![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 
 <div align="left">
   <img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=thomas0124&layout=compact&show_icons=true&theme=dracula" />
