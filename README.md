@@ -6,7 +6,7 @@
 居住地: 愛知, 日本
 職業: 大学生
 専攻: 情報工学
-学んでいること: ["Unity", "Kaggle", "Nuxt.js", "Vue.js"]
+学んでいること: ["Next.js", "Typescript", "Prisma.js", "Vue.js"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
 ```
 # **My Stats :**
