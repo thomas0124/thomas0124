@@ -18,6 +18,7 @@
 </p>
 
 [![Qiita posts](https://qiita-badge.apiapi.app/s/thomas0124/posts.svg)](http://qiita.com/thomas0124)
+
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 
 <div align="left">
