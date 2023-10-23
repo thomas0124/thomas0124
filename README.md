@@ -33,9 +33,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124)](https://github.com/thomas0124/github-profile-trophy)
 
-
-![github-contribution-grid-snake](https://github.com/thomas0124/thomas0124/blob/main/img/snake.gif)
-
 # :hammer_and_wrench: **Languages and Tools :**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
