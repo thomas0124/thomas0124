@@ -66,7 +66,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>&nbsp;
 </div>
 
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=thomas0124)
 
 <!--
 **thomas0124/thomas0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
