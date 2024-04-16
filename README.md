@@ -39,6 +39,8 @@
 - [AVL木](https://qiita.com/thomas0124/items/9dc542b4e3917f10fbb8)
 <!-- BLOG-POST-LIST:END -->
 
+&nbsp;
+
 # Conect:
 
 <a href="https://twitter.com/Tomas_engineer" target="_blank">
