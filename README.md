@@ -54,6 +54,7 @@
 - [IdeaxTech](https://plat.meijo-u.ac.jp/entrepreneurship/)
 - [TECH AiCHI](https://twitter.com/Tech_Aichi) 
 
+&nbsp;
 
 # :hammer_and_wrench: **Languages and Tools :**
 <p align="left">
