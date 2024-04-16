@@ -56,7 +56,7 @@
 </p>
 
 # :hammer_and_wrench: **Languages and Tools :**
-
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vitejs" alt="Vitejs" width="55" height="55" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="55" height="55" />&nbsp;
@@ -73,8 +73,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="liux" alt="linux" width="55" height="55" />&nbsp;
-
-
+</p>
 
 <!--
 **thomas0124/thomas0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
