@@ -52,7 +52,7 @@
 - [IdeaxTech](https://plat.meijo-u.ac.jp/entrepreneurship/)
 - [TECH AiCHI](https://twitter.com/Tech_Aichi) 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas0124&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas0124&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
 </p>
 
 # :hammer_and_wrench: **Languages and Tools :**
