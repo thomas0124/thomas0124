@@ -11,9 +11,6 @@
 ```
 # **My Stats :**
 <p>
-  <a href="https://twitter.com/Tomas_engineer" target="_blank">
-    <img alt="Twitter: Thomas_engineer" src="https://img.shields.io/twitter/follow/Tomas_engineer.svg?style=social" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=thomas0124&style=flat-square&color=blue" alt="views"/>
 </p>
 
@@ -41,6 +38,12 @@
 - [いきなり日本最大規模のハッカソンに出てみたお話](https://qiita.com/thomas0124/items/9be7717fcc9d0bd83a5d)
 - [AVL木](https://qiita.com/thomas0124/items/9dc542b4e3917f10fbb8)
 <!-- BLOG-POST-LIST:END -->
+
+### Conect:
+
+<a href="https://twitter.com/Tomas_engineer" target="_blank">
+    <img alt="Twitter: Thomas_engineer" src="https://img.shields.io/twitter/follow/Tomas_engineer.svg?style=social" />
+</a>
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas0124&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
