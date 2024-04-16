@@ -6,21 +6,23 @@ on:
 
 jobs:
   update-repository:
-    name: Update this repo's README with thomas0124
+    name: Update this repo's README with repository_owner
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
-          github_user_name: thomas0124
-          gif_out_path: ./img/snake.gif
-          svg_out_path: ./img/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./img/snake.svg
+            ./img/snake-dark.svg?palette=github-dark
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@main
         with:
-
-          branch: main
+          branch: main  
           message: ':rocket: Update'

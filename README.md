@@ -6,7 +6,7 @@
 居住地: 愛知, 日本
 職業: 大学生
 専攻: 情報工学
-学んでいること: ["Next", "React", "Ruby"]
+学んでいること: ["Next", "Rails", "Hono"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
 ```
 # **My Stats :**
@@ -21,19 +21,33 @@
 
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 
-<div align="left">
-  <a href="https://github.com/thomas0124/github-readme-stats">
-    <img alt="github stats" height="167px" src="https://github-readme-stats.vercel.app/api?username=thomas0124&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
-  </a>
-  <a href="https://github.com/thomas0124/github-readme-stats">
-    <img alt="Top Langs" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas0124&layout=compact&theme=outrun" />
-  </a>
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124)](https://github.com/thomas0124/github-profile-trophy)
+### <img src="./img/zenn.svg" width="70px"> Latest articles:
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas0124&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="obregonia1" />
+
+
+
+<!-- BLOG-POST-LIST:START -->
+- [【Rust + AWS】RustでAWS Rekognitionを扱う]( https://zenn.dev/tomas_engineer/books/fa87f772066079)
+<!-- BLOG-POST-LIST:END -->
+
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas0124&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
+</p>
+
 
 # :hammer_and_wrench: **Languages and Tools :**
+
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
@@ -65,6 +79,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>&nbsp;
 </div>
+
+
 
 
 <!--
