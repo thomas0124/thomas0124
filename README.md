@@ -28,7 +28,7 @@
 
 
 ### <img src="./img/zenn.svg" width="70px"> and <img src= "./img/qiita.svg" width="70px"> Latest articles:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas0124&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="obregonia1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas0124&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="thomas0124" />
 
 
 
