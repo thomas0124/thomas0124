@@ -42,8 +42,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thomas0124&show_icons=true&count_private=true&theme=tokyonight&custom_title=obregonia1's%20GitHub%20Stats&locale=en" alt="obregonia1" />
 </p>
 
-<div align="left">
-
 # :hammer_and_wrench: **Languages and Tools :**
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
@@ -62,9 +60,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="liux" alt="linux" width="55" height="55" />&nbsp;
-  
-</div>
-
 
 
 
