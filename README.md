@@ -46,7 +46,6 @@
 <a href="https://twitter.com/Tomas_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tomas_engineer" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tomas_03124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj ob-one" height="30" width="40" /></a>
 
-- [My HomePage](https://yumemi-test-omega.vercel.app/)
 - [IdeaxTech](https://plat.meijo-u.ac.jp/entrepreneurship/)
 - [TECH AiCHI](https://twitter.com/Tech_Aichi) 
 
