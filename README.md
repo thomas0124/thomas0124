@@ -31,9 +31,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas0124&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="thomas0124" />
 
 
-
 <!-- BLOG-POST-LIST:START -->
 - [【Rust + AWS】RustでAWS Rekognitionを扱う](https://zenn.dev/tomas_engineer/books/fa87f772066079)
+- [【アルゴリズム・データ構造】AVL木を理解する](https://qiita.com/thomas0124/items/9dc542b4e3917f10fbb8)
+- [【Unity ＋ http】UnityでHTTP通信を行うには](https://qiita.com/thomas0124/items/7b53912544a82a55b7ec)
+- [【linebot × pythonanywhere】linebotをpythonanywhereにデプロイするには](https://qiita.com/thomas0124/items/f05bf6c42a8094058b7a)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
