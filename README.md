@@ -30,10 +30,12 @@
 ### <img src="./img/zenn.svg" width="70px"> and <img src= "./img/qiita.svg" width="70px"> Latest articles:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas0124&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="thomas0124" />
 
-
-<!-- BLOG-POST-LIST:START -->
 - [【Rust + AWS】RustでAWS Rekognitionを扱う](https://zenn.dev/tomas_engineer/books/fa87f772066079)
-<!-- BLOG-POST-LIST:END -->
+- [【AVL木】アルゴリズム・データ構造 ](https://qiita.com/thomas0124/items/9dc542b4e3917f10fbb8)
+- [【Unity】UnityでHTTP通信を行うには](https://qiita.com/thomas0124/items/7b53912544a82a55b7ec)
+- [【linebot × python anywhere】pythonanywhereでlinebotをデプロイするには](https://qiita.com/thomas0124/items/f05bf6c42a8094058b7a)
+- [【ハッカソン】初心者がいきなり最大級のハッカソンに出てみた](https://qiita.com/thomas0124/items/9be7717fcc9d0bd83a5d)
+
 
 &nbsp;
 
