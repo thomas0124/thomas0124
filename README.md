@@ -20,6 +20,8 @@
   [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thomas0124&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
