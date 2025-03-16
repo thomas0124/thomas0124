@@ -6,19 +6,19 @@
 居住地: 愛知, 日本
 職業: 大学生
 専攻: 情報工学
-学んでいること: ["Next", "Rails", "Hono"]
+学んでいること: ["Next", "Rails", "Flutter"]
 趣味: ["Vtuber", "お菓子作り", "喫茶店巡り"]
 コミュニティ: ["IdeaxTech", "TECH AiCHI"]
 ```
+
 # **My Stats :**
 <p>
   <img src="https://komarev.com/ghpvc/?username=thomas0124&style=flat-square&color=blue" alt="views"/>
+  
+  [![Qiita posts](https://qiita-badge.apiapi.app/s/thomas0124/posts.svg)](http://qiita.com/thomas0124)
+
+  [![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
 </p>
-
-[![Qiita posts](https://qiita-badge.apiapi.app/s/thomas0124/posts.svg)](http://qiita.com/thomas0124)
-
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/thomas0124/contributions.svg)](http://qiita.com/thomas0124)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
@@ -47,6 +47,7 @@
 <a href="https://twitter.com/Tomas_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tomas_engineer" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tomas_03124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dj ob-one" height="30" width="40" /></a>
 
+- [トーマスのポートフォリオ](https://portfolio-thomas0124.vercel.app/)
 - [IdeaxTech](https://plat.meijo-u.ac.jp/entrepreneurship/)
 - [TECH AiCHI](https://twitter.com/Tech_Aichi) 
 
