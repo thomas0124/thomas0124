@@ -18,7 +18,7 @@
 </picture>
 
 
-### <img src="./img/zenn.svg" width="70px"> and <img src= "./img/qiita.svg" width="70px"> <img src="./img/note.svg">Latest articles:
+### <img src="./img/zenn.svg" width="70px"> and <img src= "./img/qiita.svg" width="70px"> <img src="./img/note.svg" width="70px">Latest articles:
 
 - [【インターン】DATUM STUDIOの1dayインターンに参加して](https://note.com/tomas_0124/n/na662a16832e8)
 - [【インターン】DMM GUILD2025](https://note.com/tomas_0124/n/nb352c535b296)
@@ -44,5 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
