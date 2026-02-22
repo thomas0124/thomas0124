@@ -6,7 +6,7 @@
 居住地: 愛知, 日本
 職業: 大学院生
 学んでいること: ["Next", "Go", "DeepLearning"]
-趣味: ["お菓子作り", "喫茶店巡り"]
+趣味: ["お菓子作り", "謎解き"]
 コミュニティ: ["IdeaxTech", "TECH AiCHI"]
 ```
 ### <img src="./img/zenn.svg" width="70px"> and <img src= "./img/qiita.svg" width="70px"> and <img src="./img/note.svg" width="60px" height="36px">Latest articles:
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
