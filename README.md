@@ -221,10 +221,33 @@ community  : ["IdeaxTech (代表)", "TECH AiCHI"]
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas0124&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=667eea&fire=ff6b6b&currStreakLabel=a78bfa" width="55%"/>
 
+</div>
+
+---
+
+## 🏅 Awards
+
+<div align="center">
+
+![](https://img.shields.io/badge/JPHACKS_2022-Huawei_Japan賞-FFD700?style=for-the-badge&logo=trophy&logoColor=white)
+![](https://img.shields.io/badge/JPHACKS_2023-GMO賞-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white)
+![](https://img.shields.io/badge/Hack_U_Meijo_2023-審査員賞-CD7F32?style=for-the-badge&logo=trophy&logoColor=white)
+![](https://img.shields.io/badge/DMM_GUILD_2025-複数技術賞-a78bfa?style=for-the-badge&logo=trophy&logoColor=white)
+![](https://img.shields.io/badge/DMM_GUILD_2025-Thanksポイント賞-667eea?style=for-the-badge&logo=star&logoColor=white)
 
 </div>
 
 ---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <br/>
 
