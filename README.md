@@ -51,7 +51,6 @@ community  : ["IdeaxTech (代表)", "TECH AiCHI"]
 | `2024.08` | **株式会社マナビティ** — 不動産・ホテルシステム開発 | 💼 Internship |
 | `2025.09` | **DMM.com** — GUILD 2025 複数技術賞・Thanksポイント賞 受賞 | 🏅 Award |
 | `2025.09` | **DATUM STUDIO** — text2SQL エンジニア | 💼 Internship |
-| `2027.04` | **DMM.com合同会社** 新卒入社予定 🎉 | ✨ Next |
 
 </div>
 
@@ -222,27 +221,10 @@ community  : ["IdeaxTech (代表)", "TECH AiCHI"]
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas0124&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=667eea&fire=ff6b6b&currStreakLabel=a78bfa" width="55%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thomas0124&theme=tokyonight&no-frame=true&margin-w=4&column=7" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thomas0124&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=667eea&point=ffffff&area=true&area_color=667eea" width="100%"/>
 
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thomas0124/thomas0124/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
 <br/>
 
